@@ -1,2 +1,2 @@
 # LeetCode
-Collection of LeetCode questions solved by me.
+This repo is the Collection of all my personal LeetCode solutions
