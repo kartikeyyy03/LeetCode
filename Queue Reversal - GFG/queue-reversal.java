@@ -50,8 +50,6 @@ class Reversing{
 //User function Template for Java
 /*Complete the function below*/
 class GfG{
-    
-    // import java.util.Stack;
     //Function to reverse the queue.
     public Queue<Integer> rev(Queue<Integer> q){
         
@@ -65,14 +63,7 @@ class GfG{
             q.add(stack.pop());
         }
         
-        
         return q;
-        
-        
-    
-        
-        
-        
         //add code here.
     }
 }
